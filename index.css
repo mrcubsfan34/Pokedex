@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Viga&display=swap");
+
+body {
+  margin: 0;
+  font-family: 'Viga', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: navy;
+  color: orchid;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
